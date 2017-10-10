@@ -1,0 +1,6 @@
+[submodule "libraries"]
+	path = libraries
+	url = http://github.com/benishor/kicad-libraries
+[submodule "etherkit-kicad"]
+	path = etherkit-kicad
+	url = git@github.com:etherkit/EtherkitKicadLibrary.git
