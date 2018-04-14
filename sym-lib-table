@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name yo6ssw)(type Legacy)(uri ${KIPRJMOD}/libraries/yo6ssw.lib)(options "")(descr ""))
+  (lib (name EtherkitKicadLibrary)(type Legacy)(uri ${KIPRJMOD}/etherkit-kicad/EtherkitKicadLibrary.lib)(options "")(descr ""))
+)
